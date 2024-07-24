@@ -8,12 +8,12 @@ public class SpringSecurityApplication {
 
 
 
-//	echo "# CICD" >> README.md
+//	echo "# CICD-New-Repo" >> README.md
 //	git init
 //	git add README.md
 //	git commit -m "first commit"
 //	git branch -M main
-//	git remote add origin https://github.com/RaviSurvase/CICD.git
+//	git remote add origin https://github.com/RaviSurvase/CICD-New-Repo.git
 //	git push -u origin main
 	public static void main(String[] args) {
 		SpringApplication.run(SpringSecurityApplication.class, args);
